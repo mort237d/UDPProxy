@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPProxy", "UDPProxy\UDPProxy.csproj", "{7D9A802F-6B69-4B54-BBE7-9C28A26DA543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorRest", "SensorRest\SensorRest.csproj", "{3F64048C-1187-413A-9952-2867FF9F802B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{DE5AD023-7186-4C40-8731-586A5E1AAD71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9A802F-6B69-4B54-BBE7-9C28A26DA543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9A802F-6B69-4B54-BBE7-9C28A26DA543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9A802F-6B69-4B54-BBE7-9C28A26DA543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9A802F-6B69-4B54-BBE7-9C28A26DA543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F64048C-1187-413A-9952-2867FF9F802B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F64048C-1187-413A-9952-2867FF9F802B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F64048C-1187-413A-9952-2867FF9F802B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F64048C-1187-413A-9952-2867FF9F802B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5AD023-7186-4C40-8731-586A5E1AAD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5AD023-7186-4C40-8731-586A5E1AAD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5AD023-7186-4C40-8731-586A5E1AAD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5AD023-7186-4C40-8731-586A5E1AAD71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {960B7431-4347-49F9-8335-0C925A8C3751}
+	EndGlobalSection
+EndGlobal
